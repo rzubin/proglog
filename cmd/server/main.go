@@ -2,7 +2,8 @@ package main
 
 import (
 	"log"
-	"proglog/internal/server"
+
+	"github.com/rzubin/proglog/internal/server"
 )
 
 func main() {
